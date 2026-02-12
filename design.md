@@ -994,8 +994,8 @@ BIGQUERY_DATASET=social_media_data
 BIGQUERY_TABLE=posts
 
 # MongoDB
-MONGODB_URI=mongodb+srv://user:pass@cluster.mongodb.net/sentiment_analyzer
-MONGODB_DB_NAME=sentiment_analyzer
+MONGODB_URI=url here
+MONGODB_DB_NAME=name of db
 
 # Redis (optional)
 REDIS_URL=redis://localhost:6379
@@ -1162,3 +1162,4 @@ Response: {
   uptime: 86400
 }
 ```
+
